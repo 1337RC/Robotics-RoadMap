@@ -15,12 +15,13 @@
 
 # Introduction
 
->  Before we dive into the specifics of embedded systems and robotics, let's first discuss what exactly we mean by these terms.
-An embedded system is a computer system designed to perform specific functions, often with real-time computing constraints.
-The Arduino and Raspberry Pi are two popular platforms for building embedded systems.
-Robotics, on the other hand, is the field of engineering and science that deals with the design, construction, and operation of robots.
-Robots can be used for a variety of purposes, such as manufacturing, healthcare, exploration, and entertainment.
-By combining embedded systems with robotics, we can build intelligent machines that can sense their environment, make decisions based on that information, and act accordingly.
+Before we dive into the specifics of embedded systems and robotics, let's first discuss what exactly we mean by these terms. 
+
+> An embedded system is a computer system designed to perform specific functions, often with real-time computing constraints. 
+
+> The Arduino and Raspberry Pi are two popular platforms for building embedded systems. Robotics, on the other hand, is the field of engineering and science that deals with the design, construction, and operation of robots. Robots can be used for a variety of purposes, such as manufacturing, healthcare, exploration, and entertainment. 
+
+> By combining embedded systems with robotics, we can build intelligent machines that can sense their environment, make decisions based on that information, and act accordingly.
 
 ## Getting Started
 
